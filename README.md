@@ -1,6 +1,6 @@
-### Performing various Regression models on salaries dataset
+# Performing various Regression models on salaries dataset
 
-## Models used are:
+### Models used are:
     
 -> SLR(Support Vector Regression) is a basic and commonly used statistical method in the field of machine learning and statistics. It is used for analyzing and modeling the relationship between two variables, where one is the predictor (independent variable) and the other is the response (dependent variable).
 
