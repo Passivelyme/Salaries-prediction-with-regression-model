@@ -11,3 +11,5 @@
 -> The Support Vector Machine (SVM) is a versatile and potent machine learning algorithm applicable to both classification and regression tasks. It excels by determining the most effective hyperplane for dividing data into separate categories in classification or forecasting continuous numerical values in regression. Support Vector Regression (SVR) is an adaptation of SVM tailored for regression, extending its capabilities from classifying to predicting numeric outcomes.
 
 -> Elastic Net Regression is a type of linear regression that combines the penalties of both Lasso (L1 regularization) and Ridge (L2 regularization) regression techniques. It's designed to address some of the limitations of Lasso and Ridge regression.
+
+#### Data Visualization
