@@ -1,4 +1,4 @@
-# Performing various Regression models on salaries dataset
+Performing various Regression models on salaries dataset
 
 ## Models used are:
     
