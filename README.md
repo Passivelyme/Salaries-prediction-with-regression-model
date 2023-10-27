@@ -13,3 +13,5 @@
 -> Elastic Net Regression is a type of linear regression that combines the penalties of both Lasso (L1 regularization) and Ridge (L2 regularization) regression techniques. It's designed to address some of the limitations of Lasso and Ridge regression.
 
 #### Data Visualization
+
+-> Employing the versatile and robust data visualization tools provided by the combined package of Matplotlib and Seaborn, we have conducted a comprehensive visual analysis of the salary dataset. Leveraging these powerful libraries, we have created insightful and informative visualizations in the form of box plots, line plots, heatmaps, and scatterplots. These visualizations not only enable us to explore the distribution, trends, and correlations within the dataset but also offer a structured and visually appealing presentation of the data, enhancing our ability to draw meaningful insights from the salary data.
